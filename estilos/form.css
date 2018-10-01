@@ -46,6 +46,12 @@ form h2{
 	text-align: center;
 }
 
+.frase-caueac4{
+	margin-left: 500px;
+	font-size: 20px;
+	margin-top: 50px;
+}
+
 .form-caue-ac4{
 	margin-left: 500px;
 	width: 435px;
@@ -65,11 +71,15 @@ form h2{
 	margin-top: -5px;
 	height: 540px;
 }
-.frase-caueac4{
-	margin-left: 500px;
-	font-size: 20px;
-	margin-top: 50px;
+.fieldset-caue-a4{
+	width: 270px;
+	box-sizing: border-box;
+	margin-left: 136px;
+	border: 1px solid #999;
+	height:260px;
+	padding: 10px;
 }
+
 input{
 	font: 1em sans-serif;
 	box-sizing: border-box;
