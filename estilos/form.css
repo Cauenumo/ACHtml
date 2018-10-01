@@ -55,6 +55,16 @@ form h2{
 	font-size: 14px;
 	margin-top: -5px;
 }
+.form-emanoel-ac4{
+	margin-left: 500px;
+	width: 405px;
+	padding: 1em;
+	border: 1px solid #CCC;
+	border-radius: 1em;
+	font-size: 14px;
+	margin-top: -5px;
+	height: 540px;
+}
 .frase-caueac4{
 	margin-left: 500px;
 	font-size: 20px;
@@ -74,13 +84,20 @@ input:focus, textarea:focus{
 	border-color: #000;
 }
 
-fieldset{
-	width: 270px;
-	box-sizing: border-box;
-	margin-left: 136px;
-	border: 1px solid #999;
-	height:260px;
-	padding: 10px;
+#fieldset-emanoel1{
+	width: 230px;
+	margin-left: 126px;
+	height: 75px;
+}
+#fieldset-emanoel2{
+	width: 230px;
+	margin-left: 126px;
+	height: 100px;
+}
+#fieldset-emanoel3{
+	width: 230px;
+	margin-left: 126px;
+	height: 130px;
 }
 
 button{
